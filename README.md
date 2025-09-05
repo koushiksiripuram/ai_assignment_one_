@@ -1,1 +1,5 @@
-# ai_assignment_one_
+B210050 KOUSHIK SIRIPURAM
+
+E3 CSE C1 
+
+AI ASSIGNMENT
